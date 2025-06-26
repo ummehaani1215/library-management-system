@@ -9,10 +9,10 @@ simple Library Management System built using Java and OOPS
 - View all books and their status
 
 ### Classes Used:
-- **Book** - stores book info and issue status
-- **User** - represents a library user
-- **Library** - holds book collection and provides actions
-- **Main** - runs the program and handles user interaction
+- Book- stores book info and issue status
+- User - represents a library user
+- Library - holds book collection and provides actions
+- Main - runs the program and handles user interaction
 
 ### Concepts Applied:
 - Abstraction
